@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+
+
+header {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.deco {
+  color: red;
+}
